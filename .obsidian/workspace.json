@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "60c20720b9671732",
+    "type": "split",
+    "children": [
+      {
+        "id": "579fd3724025e6e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0cc8962534f45f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "240d0d0f3c18f849",
+    "type": "split",
+    "children": [
+      {
+        "id": "e58305443f6314da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b4a8d764986e7a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ed6663702c4c42f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fde37b7becfdfd03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1af802a07ea5529d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3f3d3ea4f702f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc45e62da20e2080",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c3fb0399cd6e01a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "378fbb26a675ae07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "196749d25ee54d2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e0cc8962534f45f4",
+  "lastOpenFiles": [
+    "README.md",
+    "Index.md",
+    "Chapters/过程式编程",
+    "Chapters",
+    "Chapters/介绍",
+    "Assets/Pasted image 20240715173135.png",
+    "Assets/Pasted image 20240715173016.png",
+    "Assets/Pasted image 20240715170929.png",
+    "Assets",
+    "gitignore.txt",
+    "gitignore",
+    "未命名.md",
+    "创建链接.md"
+  ]
+}
